@@ -2,7 +2,7 @@
     "name": "MAX3107 SPI Decoder",
     "version": "0.0.1",
     "apiVersion": "1.0.0",
-    "author": "RBR",
+    "author": "Ben Chittle",
     "description": "Decodes SPI transactions to/from a MAX3107 UART bridge. Annotates register reads/writes and extracts UART TX data from THR writes.",
     "extensions": {
         "MAX3107 SPI Decoder": {
